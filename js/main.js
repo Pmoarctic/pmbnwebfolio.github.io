@@ -51,11 +51,6 @@ function commander(cmd) {
       case "projects":
         loopLines(projects, "color2 margin", 80);
         break;
-      case "history":
-        addLine("<br>", "", 0);
-        loopLines(commands, "color2", 80);
-        addLine("<br>", "command", 80 * commands.length + 50);
-        break;
       case "email":
         addLine('Opening mailto:<a href="mail To:t4ng1336@gmail.com">t4ng1336@gmail.com</a>...', "color2", 80);
         newTab(email);
@@ -68,15 +63,6 @@ function commander(cmd) {
         break;
       case "banner":
         loopLines(banner, "", 80);
-        break;
-      // socials
-      case "youtube":
-        addLine("Opening YouTube...", "color2", 80);
-        newTab(youtube);
-        break;
-      case "twitter":
-        addLine("Opening Twitter...", "color2", 0);
-        newTab(twitter);
         break;
       case "instagram":
         addLine("Opening Instagram...", "color2", 0);
