@@ -13,7 +13,7 @@ whoami = [
 
 social = [
   "<br>",
-  'instagram      <a href="' + instagram + '" target="_blank">instagram/forrestpknight' + '</a>',
+  'instagram      <a href="' + instagram + '" target="_blank">instagram/pom.b.me' + '</a>',
   'facebook       <a href="' + facebook + '" target="_black">facebook/tung.pomboonme' + '</a>',
   'github         <a href="' + github + '" target="_blank">github/Pmoarctic' + "</a>",
   '<span class="command">click for link to website.</span>',
