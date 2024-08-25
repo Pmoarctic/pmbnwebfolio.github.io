@@ -7,7 +7,7 @@ whoami = [
   "<br>",
   "name-surname : Pomboon Pomboonmee",
   "Career       : Student",
-  "School       : Naresuan University Secondary Demonstration School, Phitsanulok",
+  "University   : Chulalongkorn University, Bankok",
   "<br>"
 ];
 
